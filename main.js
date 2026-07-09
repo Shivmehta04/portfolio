@@ -162,7 +162,7 @@
 
   // ─── Staggered reveal for grid children ───
   const gridContainers = document.querySelectorAll(
-    '.projects-grid, .skills-grid, .achievements-grid, .contact-grid'
+    '.projects-grid, .skills-grid, .achievements-grid, .contact-grid, .blog-grid, .about-highlights, .certifications-grid'
   );
 
   gridContainers.forEach(function (grid) {
